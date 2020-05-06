@@ -13,6 +13,7 @@
 		30E78D502462B61C00623160 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30E78D4F2462B61C00623160 /* Assets.xcassets */; };
 		30E78D532462B61C00623160 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30E78D522462B61C00623160 /* Preview Assets.xcassets */; };
 		30E78D562462B61C00623160 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30E78D542462B61C00623160 /* LaunchScreen.storyboard */; };
+		30E78D5E2462BD4500623160 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E78D5D2462BD4500623160 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		30E78D522462B61C00623160 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		30E78D552462B61C00623160 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		30E78D572462B61C00623160 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30E78D5D2462BD4500623160 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		30E78D482462B61A00623160 /* Xcode test */ = {
 			isa = PBXGroup;
 			children = (
+				30E78D5D2462BD4500623160 /* SwiftUIView.swift */,
 				30E78D492462B61A00623160 /* AppDelegate.swift */,
 				30E78D4B2462B61A00623160 /* SceneDelegate.swift */,
 				30E78D4D2462B61A00623160 /* ContentView.swift */,
@@ -148,6 +151,7 @@
 			files = (
 				30E78D4A2462B61A00623160 /* AppDelegate.swift in Sources */,
 				30E78D4C2462B61A00623160 /* SceneDelegate.swift in Sources */,
+				30E78D5E2462BD4500623160 /* SwiftUIView.swift in Sources */,
 				30E78D4E2462B61A00623160 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
